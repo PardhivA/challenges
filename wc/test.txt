@@ -1,0 +1,2 @@
+The source command in Unix-like operating systems reads and executes commands from a specified file in the current shell environment. This is different from executing a script directly, as it does not spawn a new shell process. Instead, it runs the commands in the context of the current shell.
+Hola Amigos!!

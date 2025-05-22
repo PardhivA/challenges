@@ -1,0 +1,11 @@
+{ 
+    "name" : "pardhiv" ,
+    "age" : 21,
+    "sex": "male",
+    "bike" : False,
+    "books" : {
+        "name" : "OS",
+        "year" : 2005
+    },
+    "experience" : [ "CEWiT" , "SingularityDynamics" ]
+}
