@@ -33,7 +33,7 @@ huffman_compressor/
 ├── output.bin                 # Compressed binary output (generated after encoding)
 ├── output_sharable.txt        # Optional base64-encoded output (if -s flag is used)
 ├── decoded_text.txt           # File created after decoding
-└── your_file.json             # JSON file containing Huffman codes
+└── codes.json             # JSON file containing Huffman codes
 ```
 
 ---
